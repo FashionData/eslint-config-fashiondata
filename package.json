@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-fashiondata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/parser": "^5.49.0",
+    "@vue/eslint-config-typescript": "^11.0.2",
+    "eslint": "^8.32.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-vue": "^9.9.0"
+  }
+}
