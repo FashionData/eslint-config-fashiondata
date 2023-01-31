@@ -1,4 +1,4 @@
-# fashiondata-eslint-config
+# eslint-config
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs)
 
@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-yarn add git+https://github.com/FashionData/fashiondata-eslint-config
+yarn add git+https://github.com/FashionData/eslint-config
 ```
 
 ## Usage
